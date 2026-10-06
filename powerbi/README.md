@@ -97,7 +97,7 @@ The report includes:
 ## Live Dashboard
 
 **Power BI:**
-`[ADD PUBLISHED POWER BI LINK]`
+`[https://app.powerbi.com/groups/me/reports/baa9483c-0f9e-424a-b222-9d9bb7e649a1?experience=power-bi]`
 
 
 
